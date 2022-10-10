@@ -44,7 +44,7 @@ xmlhttp.onload = function() {
   }
   console.log(y)
 }
-xmlhttp.open("GET", "http://34.71.83.78/consumo/chart?dataFiltro=2022-10-03", true);
+xmlhttp.open("GET", "http:/34.171.126.11/consumo/chart?dataFiltro=2022-10-03", true);
 xmlhttp.send();
 }
 console.log(haha())
